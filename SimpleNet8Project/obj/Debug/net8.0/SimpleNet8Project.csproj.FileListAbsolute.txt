@@ -1,0 +1,15 @@
+/Users/nantawan/Desktop/git/simple-.net8/SimpleNet8Project/bin/Debug/net8.0/SimpleNet8Project
+/Users/nantawan/Desktop/git/simple-.net8/SimpleNet8Project/bin/Debug/net8.0/SimpleNet8Project.deps.json
+/Users/nantawan/Desktop/git/simple-.net8/SimpleNet8Project/bin/Debug/net8.0/SimpleNet8Project.runtimeconfig.json
+/Users/nantawan/Desktop/git/simple-.net8/SimpleNet8Project/bin/Debug/net8.0/SimpleNet8Project.dll
+/Users/nantawan/Desktop/git/simple-.net8/SimpleNet8Project/bin/Debug/net8.0/SimpleNet8Project.pdb
+/Users/nantawan/Desktop/git/simple-.net8/SimpleNet8Project/obj/Debug/net8.0/SimpleNet8Project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nantawan/Desktop/git/simple-.net8/SimpleNet8Project/obj/Debug/net8.0/SimpleNet8Project.AssemblyInfoInputs.cache
+/Users/nantawan/Desktop/git/simple-.net8/SimpleNet8Project/obj/Debug/net8.0/SimpleNet8Project.AssemblyInfo.cs
+/Users/nantawan/Desktop/git/simple-.net8/SimpleNet8Project/obj/Debug/net8.0/SimpleNet8Project.csproj.CoreCompileInputs.cache
+/Users/nantawan/Desktop/git/simple-.net8/SimpleNet8Project/obj/Debug/net8.0/SimpleNet8Project.sourcelink.json
+/Users/nantawan/Desktop/git/simple-.net8/SimpleNet8Project/obj/Debug/net8.0/SimpleNet8Project.dll
+/Users/nantawan/Desktop/git/simple-.net8/SimpleNet8Project/obj/Debug/net8.0/refint/SimpleNet8Project.dll
+/Users/nantawan/Desktop/git/simple-.net8/SimpleNet8Project/obj/Debug/net8.0/SimpleNet8Project.pdb
+/Users/nantawan/Desktop/git/simple-.net8/SimpleNet8Project/obj/Debug/net8.0/SimpleNet8Project.genruntimeconfig.cache
+/Users/nantawan/Desktop/git/simple-.net8/SimpleNet8Project/obj/Debug/net8.0/ref/SimpleNet8Project.dll
